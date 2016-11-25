@@ -5,7 +5,7 @@
   "description": "Implements a stack of clipboard history",
   "keywords": [],
   "activationCommands": {},
-  "repository": "https://github.com/atom/clipboard-plus-plus",
+  "repository": "https://github.com/nmoya/clipboard-plus-lus.git",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
