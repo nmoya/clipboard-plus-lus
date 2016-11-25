@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Stack of clipboard history",
+        "command": "clipboard-plus-plus:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "clipboard-plus-plus",
+          "submenu": [
+            {
+              "label": "Stack of clipboard history",
+              "command": "clipboard-plus-plus:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

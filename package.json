@@ -1,0 +1,15 @@
+{
+  "name": "clipboard-plus-plus",
+  "main": "./lib/clipboard-plus-plus",
+  "version": "0.0.0",
+  "description": "Implements a stack of clipboard history",
+  "keywords": [],
+  "activationCommands": {},
+  "repository": "https://github.com/atom/clipboard-plus-plus",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
