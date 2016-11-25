@@ -1,7 +1,7 @@
 {
   "name": "clipboard-plus-plus",
   "main": "./lib/clipboard-plus-plus",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Implements a stack of clipboard history",
   "keywords": [],
   "activationCommands": {},
@@ -10,6 +10,5 @@
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
